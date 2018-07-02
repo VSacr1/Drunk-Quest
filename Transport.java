@@ -8,7 +8,7 @@
  *
  *This relied on a String which provides the name and an int which provides the cost of the public
  *transport. 
- * @author VSacre1
+ * @author 
  * @version 
  */
 public class Transport

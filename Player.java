@@ -6,7 +6,7 @@
  * There is also a NPC player program here which has been created to hinder
  * the players decisions throughout the game. 
  *
- * @author VSacre1
+ * @author 
  * @version 
  */
 public class Player

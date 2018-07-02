@@ -5,7 +5,7 @@
  * you can attack and defeat using your attack command. They range from different animals to transport.
  * However they are all realistic creatures, the ones that are imaginary cause no damage. 
  *
- * @author VSacre1
+ * @author 
  * @version 
  */
 public class Enemies

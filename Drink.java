@@ -6,7 +6,7 @@
  * 
  * I have used int values for the prices and a String for the name of the drinks. 
  *
- * @author VSacre1
+ * @author 
  * @version 
  */
 

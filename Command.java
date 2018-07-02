@@ -11,7 +11,7 @@
  *
  * If the command had only one word, then the second word is <null>.
  * 
- * @author  VSacre1
+ * @author  
  * @version 
  */
 

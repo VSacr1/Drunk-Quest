@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * them more sober, however will cost the players money. 
  *
  *These items functions are a String which provides the food name and an int to produce the cost.
- * @author VSacre1
+ * @author 
  * @version 
  */
 public class Food

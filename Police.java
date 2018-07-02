@@ -6,7 +6,7 @@
  * 
  * The characters movement shall be random. 
  *
- * @author VSacre1
+ * @author 
  * @version 
  */
 public class Police
